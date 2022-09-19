@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Nasywa\'s Cake</string>
+    <string name="cakelocation">Cake Location</string>
+    <string name="cakeName">Cake Name</string>
+    <string name="thumbnail_image">thumbnail_image</string>
+    <string name="cakePrice">Cake Price</string>
+    <string name="cakeDetail">Cake Detail</string>
+    <string name="user">User</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="my_profile">My Profile</string>
+</resources>
